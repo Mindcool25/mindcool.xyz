@@ -10,7 +10,7 @@
   padding-right: 25px;
 }
 
-.sitemap a {
+.sitemap a.page {
   float: right;
   vertical-align: middle;
   text-align: center;
