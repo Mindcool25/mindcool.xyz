@@ -1,0 +1,41 @@
+.sitemap {
+  background-color:#1a1a1a;
+  overflow: hidden;
+}
+
+.sitemap h2 {
+  float:left;
+  font-weight: 1000;
+  color: grey;
+  padding-right: 25px;
+}
+
+.sitemap a {
+  float: right;
+  vertical-align: middle;
+  text-align: center;
+  padding: 25px;
+  text-decoration: none;
+  color:darkgrey;
+  font-size: 20px;
+  background-color: #2b2b2b;
+}
+.sitemap a.active{
+  background-color: #444444;
+}
+.sitemap a.active:hover{
+  background-color: #444444;
+}
+.sitemap a:hover {
+  background-color: #3c3c3c;
+}
+
+
+.sitemap img {
+  width:60px;
+  text-align: left;
+  float:left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  align-self: center;
+}
